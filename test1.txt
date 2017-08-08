@@ -1,4 +1,4 @@
-this is my new text file
+this is text will changed in visual studio code
 Git commands
 
 
